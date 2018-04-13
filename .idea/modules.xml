@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/Laravel.iml" filepath="$PROJECT_DIR$/.idea/Laravel.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/mylaravel.iml" filepath="$PROJECT_DIR$/.idea/mylaravel.iml" />
+>>>>>>> dev
     </modules>
   </component>
 </project>
